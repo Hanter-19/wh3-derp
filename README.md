@@ -16,14 +16,14 @@ Some likely outcomes if this mod achieves its vision:
 
 ## Planned Features
 The following is a non-exhaustive list of currently planned features:
-- Elector Counts Fealty Randomiser (already released as a [standalone mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2981189943))
-- Dynamic Starts (active development - working prototype completed)
-- Imperial Mandate (active development - working prototype completed)
-- More Elector Count interactions (not started)
-- Interactions with loreful allies, such as Kislev, Bretonnia, Dwarfs etc (not started)
-- XCOM-style Invasions (not started)
-- Empire Patrol Officers (prototyping on hold)
-- Imperial Camp (not started - extremely low priority)
+- [Elector Counts Fealty Randomiser](#Elector-Counts-Fealty-Randomiser) (already released as a [standalone mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2981189943))
+- [Dynamic Starts](#Dynamic-Starts) (active development - working prototype completed)
+- [Imperial Mandate](#Imperial-Mandate) (active development - working prototype completed)
+- [More Elector Count interactions](#More-Elector-Count-Interactions) (not started)
+- [Interactions with loreful allies](#Interactions-with-Loreful-Allies), such as Kislev, Bretonnia, Dwarfs etc (not started)
+- [XCOM-style Invasions](#XCOM-style-Invasions) (not started)
+- [Empire Patrol Officers](#Empire-Patrol-Officers) (prototyping on hold)
+- [Imperial Camp](#Imperial-Camp) (not started - extremely low priority)
 
 ### Elector Counts Fealty Randomiser
 Randomises the fealty of all Elector Counts at the start of a new campaign for a fresh start each time.
